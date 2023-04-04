@@ -13,6 +13,8 @@ In the discussion, the idea came up to create a realistic example of a minimal s
 
 ## Real-world example
 
+### Chapter 1 - 
+
 > Hello *\*name\**!
 
 You're obviously confused but reluctantly stay to listen to the stranger who quite rudely refers to you as \*name\*...
@@ -44,22 +46,24 @@ oooookay...
 
 > In the past eons, travellers from three different kingdoms set out to conquer these lands of the terminal with their own traditional garbs, tools, and spells. Nowadays, however, thanks to globalism and technological advances all traveling equipment has been standardized. Thus, I would like to strongly suggest to pick the **Bard** as your class of choice.
 
-Clippy does a weird motion with their single arm-like metal limb and in the same moment a note appears magically in front of your face.
+Clippy does a weird motion with their single arm-like metal limb and in the same moment a note magically appears in front of your face. It's a bit too close to read comfortably.
 
 ```
-The Bard - A wandering poet who uses [poetry](https://python-poetry.org/) as their main tool. Poetry allows the bard to effectively reproduce and recite their spells independent of their current location and time. Furthermore, the bard is known for their love of sharing their poems, so that fellow bards can not only enjoy the same buffs but also test and improve their poems. The bard is super cool!
+The Bard - A wandering poet who uses [poetry](https://python-poetry.org/)
+as their main tool. Poetry allows the bard to effectively reproduce and 
+recite their spells independent of their current location and time. 
+Furthermore, the bard is known for their love of sharing their poems, 
+so that fellow bards can not only enjoy the same buffs but also test and
+improve their poems. The bard is super cool!
 ```
 
 Clippy does the bendy motion again and the note disappears. You're kinda hoping that Clippy isn't planning to show you many other fact-sheets as the metal bend is already dangerously loose.
 
-> Equipping poetry is as easy as using this quick incantation. Come on, give it a try yourself! If you're unsure, you can find
+> Equipping poetry is as easy as using this quick incantation. Come on, give it a try yourself! If you're unsure, you can find more instrucations in [this instructive scroll](https://python-poetry.org/docs/#installation).
 
 ```
 curl -sSL https://install.python-poetry.org | python3 -
 ```
-
-
-
 
 ### Chapter 2 - Gearing up
 
