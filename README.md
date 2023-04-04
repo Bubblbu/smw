@@ -15,6 +15,8 @@ In the discussion, the idea came up to create a realistic example of a minimal s
 
 ### Chapter 1 - Intro
 
+![terminal clippy](images/terminal_clippy.png)
+
 > Hello *\*name\**!
 
 You're obviously confused but reluctantly stay to listen to the stranger who quite rudely refers to you as \*name\*...
@@ -68,6 +70,8 @@ curl -sSL https://install.python-poetry.org | python3 -
 ### Chapter 2 - Gearing up
 
 ### Chapter 3 - Leeeeeeeeroy Jenkins!
+
+### Chapter 4 - Loot
 
 ### Credits
 
