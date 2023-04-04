@@ -13,7 +13,7 @@ In the discussion, the idea came up to create a realistic example of a minimal s
 
 ## Real-world example
 
-### Chapter 1 - 
+### Chapter 1 - Intro
 
 > Hello *\*name\**!
 
@@ -34,7 +34,7 @@ You just tried to leave but every door seems to lead back into this room with th
 
 The tenured professor finally glitches away into his office and you're left with your laptop and a printed version of the Python documentation.
 
-### Chapter 1 - Pick a class
+### Chapter 2 - Picking your class
 
 You stare at your laptop. The cursor simply keeps blinking at you. You wonder if that is the abyss thing that Nietzsche talked about. After a little existential while, when you were just about to give up and use the keyboard to provide some input to the machine, the abyss starts talking to you:
 
@@ -71,7 +71,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 ### Credits
 
-I want to thank my ADHD for providing the nervous energy and urge to procrastinate which made this undertaking possible. Unfortunately...
+Mostly, I want to thank my ADHD for providing the nervous energy and urge to procrastinate which made this undertaking possible.
 
 ## License
 
