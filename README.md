@@ -32,7 +32,34 @@ You just tried to leave but every door seems to lead back into this room with th
 
 The tenured professor finally glitches away into his office and you're left with your laptop and a printed version of the Python documentation.
 
-### Chapter 1 - Your environment
+### Chapter 1 - Pick a class
+
+You stare at your laptop. The cursor simply keeps blinking at you. You wonder if that is the abyss thing that Nietzsche talked about. After a little existential while, when you were just about to give up and use the keyboard to provide some input to the machine, the abyss starts talking to you:
+
+> Oh brave traveller, my name is Clippy and I shall be your guide on your perilous journey. These lands that are unknown have been given many different names: console, shell, command line, or simply *terminal* and I shall, as have my ancestors, guide you through the terminal in the most efficient way.
+
+ఠ_ఠ
+
+oooookay...
+
+> In the past eons, travellers from three different kingdoms set out to conquer these lands of the terminal with their own traditional garbs, tools, and spells. Nowadays, however, thanks to globalism and technological advances all traveling equipment has been standardized. Thus, I would like to strongly suggest to pick the **Bard** as your class of choice.
+
+Clippy does a weird motion with their single arm-like metal limb and in the same moment a note appears magically in front of your face.
+
+```
+The Bard - A wandering poet who uses [poetry](https://python-poetry.org/) as their main tool. Poetry allows the bard to effectively reproduce and recite their spells independent of their current location and time. Furthermore, the bard is known for their love of sharing their poems, so that fellow bards can not only enjoy the same buffs but also test and improve their poems. The bard is super cool!
+```
+
+Clippy does the bendy motion again and the note disappears. You're kinda hoping that Clippy isn't planning to show you many other fact-sheets as the metal bend is already dangerously loose.
+
+> Equipping poetry is as easy as using this quick incantation. Come on, give it a try yourself! If you're unsure, you can find
+
+```
+curl -sSL https://install.python-poetry.org | python3 -
+```
+
+
+
 
 ### Chapter 2 - Gearing up
 
